@@ -1,2 +1,2 @@
 # amdtrx
-[Live Site: ] (https://amdtrx.pages.dev/ "Fuck you ocu-dicks")
+Link to [Live Site: ](https://amdtrx.pages.dev/ "Fuck you ocu-dicks") on Cloudflare.
